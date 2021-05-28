@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 include("conexion.php");
 session_start();
@@ -103,3 +104,7 @@ if (isset($_POST['enviar'])) {
 	
 </body>
 </html>
+=======
+Holasfdfhshq
+que mas 
+>>>>>>> 005553adad646a83d97cfca43355cdaf9559d6e7
